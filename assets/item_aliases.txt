@@ -1,0 +1,16 @@
+# Friendly speech aliases for detected objects
+# Format: original_coco_label=friendly_speech_name
+
+cell phone=smartphone
+bottle=bottle
+cup=cup
+tv=screen monitor
+couch=sofa
+dining table=table
+potted plant=houseplant
+hair drier=hair dryer
+remote=remote control
+baseball bat=bat
+sports ball=ball
+wine glass=wine glass
+teddy bear=teddy bear

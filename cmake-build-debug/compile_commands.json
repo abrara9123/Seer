@@ -1,0 +1,134 @@
+[
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/app/AppConfig.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/app/AppConfig.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/app/AppConfig.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/app/AppConfig.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/vision/Detector.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/vision/Detector.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/vision/Detector.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/vision/Detector.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/vision/ChangeMask.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/vision/ChangeMask.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/vision/ChangeMask.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/vision/ChangeMask.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/vision/PresenceTracker.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/vision/PresenceTracker.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/vision/PresenceTracker.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/vision/PresenceTracker.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/vision/LocalDetectionWorker.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/vision/LocalDetectionWorker.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/vision/LocalDetectionWorker.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/vision/LocalDetectionWorker.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/vision/DepthEstimator.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/vision/DepthEstimator.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/vision/DepthEstimator.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/vision/DepthEstimator.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/vision/SceneSummary.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/vision/SceneSummary.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/vision/SceneSummary.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/vision/SceneSummary.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/audio/SpeechQueue.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/audio/SpeechQueue.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/audio/SpeechQueue.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/audio/SpeechQueue.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/text/TextReader.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/text/TextReader.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/text/TextReader.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/text/TextReader.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/clang++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -x objective-c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -fobjc-arc -o CMakeFiles/visionassist_core.dir/src/text/TextReaderApple.mm.o -c /Users/abrar/CLionProjects/VisionAssist/src/text/TextReaderApple.mm",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/text/TextReaderApple.mm",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/text/TextReaderApple.mm.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/runtime/SpecialistWorker.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/runtime/SpecialistWorker.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/runtime/SpecialistWorker.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/runtime/SpecialistWorker.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/ui/DisplayRenderer.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/ui/DisplayRenderer.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/ui/DisplayRenderer.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/ui/DisplayRenderer.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/visionassist_core.dir/src/ai/ChatGPTClient.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/ai/ChatGPTClient.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/ai/ChatGPTClient.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/visionassist_core.dir/src/ai/ChatGPTClient.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/VisionAssist.dir/src/app/main.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/app/main.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/app/main.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/VisionAssist.dir/src/app/main.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/VisionAssist.dir/src/app/VisionApplication.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/src/app/VisionApplication.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/src/app/VisionApplication.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/VisionAssist.dir/src/app/VisionApplication.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/local_detection_test.dir/tests/cpp/local_detection_test.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/tests/cpp/local_detection_test.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/tests/cpp/local_detection_test.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/local_detection_test.dir/tests/cpp/local_detection_test.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/change_mask_test.dir/tests/cpp/change_mask_test.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/tests/cpp/change_mask_test.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/tests/cpp/change_mask_test.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/change_mask_test.dir/tests/cpp/change_mask_test.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/detector_smoke.dir/tests/cpp/detector_smoke.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/tests/cpp/detector_smoke.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/tests/cpp/detector_smoke.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/detector_smoke.dir/tests/cpp/detector_smoke.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/preview_pipeline_test.dir/tests/cpp/preview_pipeline_test.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/tests/cpp/preview_pipeline_test.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/tests/cpp/preview_pipeline_test.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/preview_pipeline_test.dir/tests/cpp/preview_pipeline_test.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/specialist_test.dir/tests/cpp/specialist_test.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/tests/cpp/specialist_test.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/tests/cpp/specialist_test.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/specialist_test.dir/tests/cpp/specialist_test.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/depth_smoke.dir/tests/cpp/depth_smoke.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/tests/cpp/depth_smoke.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/tests/cpp/depth_smoke.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/depth_smoke.dir/tests/cpp/depth_smoke.cpp.o"
+},
+{
+  "directory": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/abrar/CLionProjects/VisionAssist/include -isystem /opt/homebrew/Cellar/opencv/5.0.0_11/include/opencv5 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -O3 -o CMakeFiles/chatgpt_client_test.dir/tests/cpp/chatgpt_client_test.cpp.o -c /Users/abrar/CLionProjects/VisionAssist/tests/cpp/chatgpt_client_test.cpp",
+  "file": "/Users/abrar/CLionProjects/VisionAssist/tests/cpp/chatgpt_client_test.cpp",
+  "output": "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/CMakeFiles/chatgpt_client_test.dir/tests/cpp/chatgpt_client_test.cpp.o"
+}
+]

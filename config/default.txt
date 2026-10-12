@@ -1,0 +1,17 @@
+# Shared camera, detector, audio and accessibility settings.
+# Private AI settings live in .local/openai.conf.
+target_fps=30
+model=models/objects365_detector.onnx
+labels=models/objects365.names
+detection_interval_ms=1000
+confidence=0.45
+ignore=person
+voice=Samantha
+rate=210
+input_size=640
+show_change_mask=true
+change_threshold=20
+depth_model=models/depth_estimator.onnx
+depth_input_size=512
+depth_enabled=true
+ocr_fast=true

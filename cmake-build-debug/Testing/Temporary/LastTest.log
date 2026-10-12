@@ -1,0 +1,70 @@
+Start testing: Oct 12 12:26 CDT
+----------------------------------------------------------
+1/4 Testing: local_detection
+1/4 Test: local_detection
+Command: "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/local_detection_test"
+Directory: /Users/abrar/CLionProjects/VisionAssist/cmake-build-debug
+"local_detection" start time: Oct 12 12:26 CDT
+Output:
+----------------------------------------------------------
+PASS: output formats, 365 labels, box coordinates, new-object tracking, automatic one-second refresh, and speech serialization
+<end of output>
+Test time =   1.68 sec
+----------------------------------------------------------
+Test Passed.
+"local_detection" end time: Oct 12 12:26 CDT
+"local_detection" time elapsed: 00:00:01
+----------------------------------------------------------
+
+2/4 Testing: change_mask
+2/4 Test: change_mask
+Command: "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/change_mask_test"
+Directory: /Users/abrar/CLionProjects/VisionAssist/cmake-build-debug
+"change_mask" start time: Oct 12 12:26 CDT
+Output:
+----------------------------------------------------------
+PASS: local changes, quiet static scenes, lighting/camera compensation, and meaningful speech events
+Average mask processing: 1.51926 ms
+<end of output>
+Test time =   0.63 sec
+----------------------------------------------------------
+Test Passed.
+"change_mask" end time: Oct 12 12:26 CDT
+"change_mask" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: specialists
+3/4 Test: specialists
+Command: "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/specialist_test"
+Directory: /Users/abrar/CLionProjects/VisionAssist/cmake-build-debug
+"specialists" start time: Oct 12 12:26 CDT
+Output:
+----------------------------------------------------------
+Offline OCR fixture: Text reads: VISION ASSIST. CUP ON RIGHT
+PASS: specialist fusion, freshness, priority, depth uncertainty, and native offline OCR
+<end of output>
+Test time =   0.82 sec
+----------------------------------------------------------
+Test Passed.
+"specialists" end time: Oct 12 12:26 CDT
+"specialists" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: chatgpt_client
+4/4 Test: chatgpt_client
+Command: "/Users/abrar/CLionProjects/VisionAssist/cmake-build-debug/chatgpt_client_test"
+Directory: /Users/abrar/CLionProjects/VisionAssist/cmake-build-debug
+"chatgpt_client" start time: Oct 12 12:26 CDT
+Output:
+----------------------------------------------------------
+[CHATGPT]: A bottle at twelve oclock.
+PASS: Spacebar-only helper admission, cooldown, and clean cancellation. No real ChatGPT requests made.
+<end of output>
+Test time =   0.66 sec
+----------------------------------------------------------
+Test Passed.
+"chatgpt_client" end time: Oct 12 12:26 CDT
+"chatgpt_client" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 12 12:26 CDT
