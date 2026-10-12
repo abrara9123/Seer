@@ -165,23 +165,7 @@ Optional installed-model checks, using a private saved frame:
 ./build/depth_smoke models/depth_estimator.onnx .local/snapshot.jpg
 ```
 
-## Upload to GitHub
 
-`.gitignore` excludes `.local/`, legacy credential locations, virtual environments,
-model weights, camera captures, IDE settings, generated builds, and `dist/`.
-Use Git to add source files; keep private data outside manual uploads.
-
-For a ready-to-upload source archive:
-
-```sh
-python3 tools/package_source.py --output dist/VisionAssist-source.zip
-```
-
-The packager uses an explicit source-file list, excludes model binaries and
-private files, and checks the public files for API keys and saved session tokens
-without printing their values. Unzip the archive and upload its contents, or
-initialize Git in the extracted folder. Model preparation is required on a fresh
-clone. The archive contains no personal camera images or credentials.
 
 ## Practical limits
 
