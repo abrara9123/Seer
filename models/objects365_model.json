@@ -1,0 +1,27 @@
+{
+  "checkpoint": "yolo26n-objv1-150.pt",
+  "source": "https://docs.ultralytics.com/datasets/detect/objects365",
+  "ultralytics_version": "8.4.174",
+  "input_shape": [
+    1,
+    3,
+    640,
+    640
+  ],
+  "output_shape": [
+    1,
+    369,
+    8400
+  ],
+  "class_count": 365,
+  "preprocessing": "RGB, 1/255, letterbox padding 114",
+  "opset": 12,
+  "sha256": "3a1e8403ce4653e043ea18c6839c128d4497829eb207e4a6c9c37c15dd18db8a",
+  "validation": {
+    "recorded_frame_combined_pipeline_fps": 29.9753,
+    "object_detection_with_mask_ms": 24.4009,
+    "depth_ms": 37.2638,
+    "fast_ocr_ms": 95.0711,
+    "camera_and_window_io_included": false
+  }
+}

@@ -1,0 +1,5 @@
+# Used only for the one-time model export; the macOS app runs the ONNX file locally.
+ultralytics==8.4.174
+torch==2.14.1
+onnx==1.23.2
+onnxscript==0.7.2
